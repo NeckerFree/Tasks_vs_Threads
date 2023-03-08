@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "TaskVsThread/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/TaskVsThread.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TaskVsThread.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "TaskVsThread/1.0.0": {
-      "type": "project",
-      "path": "../TaskVsThread/TaskVsThread.csproj",
-      "msbuildProject": "../TaskVsThread/TaskVsThread.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "TaskVsThread >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\elio_\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Elio\\Development\\Projects\\Tasks_vs_Threads\\Basic\\Basic.csproj",
-      "projectName": "Basic",
-      "projectPath": "C:\\Elio\\Development\\Projects\\Tasks_vs_Threads\\Basic\\Basic.csproj",
+      "projectUniqueName": "C:\\Elio\\Development\\Projects\\Tasks_vs_Threads\\TaskVsThread\\TaskVsThread.csproj",
+      "projectName": "TaskVsThread",
+      "projectPath": "C:\\Elio\\Development\\Projects\\Tasks_vs_Threads\\TaskVsThread\\TaskVsThread.csproj",
       "packagesPath": "C:\\Users\\elio_\\.nuget\\packages\\",
-      "outputPath": "C:\\Elio\\Development\\Projects\\Tasks_vs_Threads\\Basic\\obj\\",
+      "outputPath": "C:\\Elio\\Development\\Projects\\Tasks_vs_Threads\\TaskVsThread\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,20 +28,16 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Elio\\Development\\Projects\\Tasks_vs_Threads\\TaskVsThread\\TaskVsThread.csproj": {
-              "projectPath": "C:\\Elio\\Development\\Projects\\Tasks_vs_Threads\\TaskVsThread\\TaskVsThread.csproj"
-            }
-          }
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -70,8 +47,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",

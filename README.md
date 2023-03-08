@@ -220,7 +220,10 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
+https://github.com/CodeMazeBlog/async-await-aspnetcore
+https://code-maze.com/async-generic-repository-pattern/
+https://code-maze.com/csharp-async-enumerable-yield/
+https://code-maze.com/csharp-tasks-vs-threads/
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
