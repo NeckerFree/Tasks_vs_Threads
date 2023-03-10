@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "Basic/1.0.0": {
+        "dependencies": {
+          "TaskVsThread": "1.0.0"
+        },
         "runtime": {
           "Basic.dll": {}
+        }
+      },
+      "TaskVsThread/1.0.0": {
+        "runtime": {
+          "TaskVsThread.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Basic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskVsThread/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
