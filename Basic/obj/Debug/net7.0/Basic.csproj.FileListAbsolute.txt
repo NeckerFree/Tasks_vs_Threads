@@ -13,3 +13,6 @@ C:\Elio\Development\Projects\Tasks_vs_Threads\Basic\obj\Debug\net7.0\refint\Basi
 C:\Elio\Development\Projects\Tasks_vs_Threads\Basic\obj\Debug\net7.0\Basic.pdb
 C:\Elio\Development\Projects\Tasks_vs_Threads\Basic\obj\Debug\net7.0\Basic.genruntimeconfig.cache
 C:\Elio\Development\Projects\Tasks_vs_Threads\Basic\obj\Debug\net7.0\ref\Basic.dll
+C:\Elio\Development\Projects\Tasks_vs_Threads\Basic\bin\Debug\net7.0\TaskVsThread.dll
+C:\Elio\Development\Projects\Tasks_vs_Threads\Basic\bin\Debug\net7.0\TaskVsThread.pdb
+C:\Elio\Development\Projects\Tasks_vs_Threads\Basic\obj\Debug\net7.0\Basic.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\bin\Debug\net6.0\TaskVsThread.deps.json
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\bin\Debug\net6.0\TaskVsThread.dll
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\bin\Debug\net6.0\TaskVsThread.pdb
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\TaskVsThread.csproj.AssemblyReference.cache
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\TaskVsThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\TaskVsThread.AssemblyInfoInputs.cache
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\TaskVsThread.AssemblyInfo.cs
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\TaskVsThread.csproj.CoreCompileInputs.cache
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\TaskVsThread.dll
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\refint\TaskVsThread.dll
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\TaskVsThread.pdb
+C:\Elio\Development\Projects\Tasks_vs_Threads\TaskVsThread\obj\Debug\net6.0\ref\TaskVsThread.dll
